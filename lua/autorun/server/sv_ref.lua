@@ -68,11 +68,11 @@ function Reflection.CheckAllowed(Player)
 
     if BlacklistSID then
         game.KickID(SID, "[Reflection] Blacklisted: " .. SID)
-        Reflection.Print("Kicked `%s`, blacklisted (%s)!", SID, isstring(BlacklistSID) and BlacklistSID or "<no id>")
+        Reflection.Print("Kicked `%s`, blacklisted (%s)!", SID, isstring(BlacklistSID) and BlacklistSID or "no id")
         return
     elseif BlacklistOSID then
         game.KickID(ID, "[Reflection] Blacklisted: " .. oSID)
-        Reflection.Print("Kicked `%s`, blacklisted owner (%s -> %s)!", SID, oSID, isstring(BlacklistOSID) and BlacklistOSID or "<no id>")
+        Reflection.Print("Kicked `%s`, blacklisted owner (%s -> %s)!", SID, oSID, isstring(BlacklistOSID) and BlacklistOSID or "no id")
         return
     end
 
