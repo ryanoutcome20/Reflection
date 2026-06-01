@@ -1,4 +1,5 @@
 return { 
+    -- Named actors.
     ["76561198871121863"] = "mrnutty200", -- lebron james69 / mrnutty200 - Cheating - Exodium developer
     ["76561199380209544"] = "Epicduck555", -- Epicduck555 - Cheating - Cheating YouTuber
     ["76561199029821257"] = "Ari", -- Ari - Cheating - kirkware.club developer
@@ -39,16 +40,10 @@ return {
     ["76561198355157584"] = "Sk1", -- Sk1 - Alternative account of 76561199128923930
     ["76561198375096797"] = "Sk1", -- Sk1 - Alternative account of 76561199128923930
     ["76561199077047980"] = "Sk1", -- Sk1 - Alternative account of 76561199128923930
+    ["76561198353422308"] = "Pinged", -- Pinged - Cheating - Propkiller
+    ["76561198271413443"] = "MrHawkyy", -- MrHawkyy - Cheating - Propkiller
 
-    ["76561198024693685"] = true, -- Cheating - Propkiller
-    ["76561198096733095"] = true, -- Cheating - Propkiller
-    ["76561198190131363"] = true, -- Cheating - Propkiller
-    ["76561198119598042"] = true, -- Cheating - Propkiller
-    ["76561199001462691"] = true, -- Cheating
-    ["76561198929381855"] = true, -- Cheating
-    ["76561198009689185"] = true, -- Cheating
-    ["76561198810362000"] = true, -- Cheating
-
+    -- Trinity anti-cheat testing sessions.
     ["76561199150852753"] = true, -- Cheating - Trinity testing sessions, Secret Service user
     ["76561199813091069"] = true, -- Cheating - Trinity testing sessions, Secret Service user (maybe)
     ["76561199675220953"] = true, -- Cheating - Trinity testing sessions, Secret Service user
@@ -61,8 +56,25 @@ return {
     ["76561199064149582"] = true, -- Cheating - Trinity testing sessions, exechack user
     ["76561199133921604"] = true, -- Cheating - Trinity testing sessions, benzologitinenetinecodine user
 
+    -- Libby's playerlists.
     ["76561198431135206"] = true, -- Undesirable
     ["76561198308759192"] = true, -- Undesirable
     ["76561198184374243"] = true, -- Undesirable
     ["90071996842377218"] = true, -- Undesirable
+    
+    ["76561199001462691"] = true, -- Cheating
+    ["76561198929381855"] = true, -- Cheating
+    ["76561198810362000"] = true, -- Cheating
+
+    -- IDs from /groups/pinjed.
+    ["76561198024693685"] = true, -- Cheating - Propkiller
+    ["76561198096733095"] = true, -- Cheating - Propkiller
+    ["76561198190131363"] = true, -- Cheating - Propkiller
+    ["76561198119598042"] = true, -- Cheating - Propkiller
+    ["76561198292953618"] = true, -- Cheating - Propkiller
+    ["76561198058964398"] = true, -- Cheating - Propkiller
+    ["76561198076642362"] = true, -- Cheating - Propkiller
+    ["76561197963960141"] = true, -- Cheating - Propkiller
+    ["76561197984960783"] = true, -- Cheating - Propkiller
+    ["76561199186261980"] = true, -- Cheating - Propkiller
 }
