@@ -219,7 +219,12 @@ return {
     ["76561198156195675"] = true, -- Cheating group
     ["76561198843620844"] = true, -- Cheating group
 
-    -- IDs from /groups/Propkillers_United/
+    -- IDs from /groups/Propkillers_United.
     ["76561197983737855"] = true, -- Cheating group
     ["76561198020173120"] = true, -- Cheating group
+
+    -- IDs from /groups/thefridgebois.
+    ["76561198150819604"] = true, -- Cheating group
+    ["76561198260077813"] = true, -- Cheating group
+    ["76561198097352513"] = true, -- Cheating group
 }
