@@ -170,4 +170,38 @@ return {
     ["76561199282072254"] = true, -- Cheating group
     ["76561199492180877"] = true, -- Cheating group
 
+    -- IDs from /groups/propkilled.
+    ["76561198192410428"] = true, -- Cheating group
+    ["76561198319248899"] = true, -- Cheating group
+    ["76561198269169183"] = true, -- Cheating group
+    ["76561199186261980"] = true, -- Cheating group
+    ["76561198124410675"] = true, -- Cheating group
+    ["76561198277745920"] = true, -- Cheating group
+    ["76561197991868141"] = true, -- Cheating group
+    ["76561198088495239"] = true, -- Cheating group
+    ["76561198062178015"] = true, -- Cheating group
+    ["76561197970783213"] = true, -- Cheating group
+    ["76561198019346412"] = true, -- Cheating group
+    ["76561199023179538"] = true, -- Cheating group
+    ["76561198391404913"] = true, -- Cheating group
+    ["76561198187128898"] = true, -- Cheating group
+    ["76561198330279174"] = true, -- Cheating group
+    ["76561198239588280"] = true, -- Cheating group
+    ["76561198012784917"] = true, -- Cheating group
+    ["76561199238677907"] = true, -- Cheating group
+    ["76561199253358482"] = true, -- Cheating group
+    ["76561198271413443"] = true, -- Cheating group
+    ["76561198175167811"] = true, -- Cheating group
+    ["76561199486905980"] = true, -- Cheating group
+    ["76561198162928560"] = true, -- Cheating group
+    ["76561198452512431"] = true, -- Cheating group
+    ["76561198030966032"] = true, -- Cheating group
+    ["76561198091097720"] = true, -- Cheating group
+    ["76561198036850810"] = true, -- Cheating group
+    ["76561198865182498"] = true, -- Cheating group
+    ["76561197964684081"] = true, -- Cheating group
+    ["76561198079467887"] = true, -- Cheating group
+    ["76561198082762906"] = true, -- Cheating group
+    ["76561198196804651"] = true, -- Cheating group
+    ["76561198878507867"] = true, -- Cheating group
 }
