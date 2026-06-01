@@ -55,11 +55,11 @@ return {
     ["76561199064149582"] = true, -- Cheating - Trinity testing sessions, exechack user
     ["76561199133921604"] = true, -- Cheating - Trinity testing sessions, benzologitinenetinecodine user
 
-    -- Libby's playerlists.
-    ["76561198431135206"] = true, -- Undesirable
-    ["76561198308759192"] = true, -- Undesirable
-    ["76561198184374243"] = true, -- Undesirable
-    ["90071996842377218"] = true, -- Undesirable
+    -- Libby's Oxide playerlist.
+    ["76561198431135206"] = true, -- Minge
+    ["76561198308759192"] = true, -- Minge
+    ["76561198184374243"] = true, -- Minge
+    ["90071996842377218"] = true, -- Minge
     
     ["76561199001462691"] = true, -- Cheating
     ["76561198929381855"] = true, -- Cheating
