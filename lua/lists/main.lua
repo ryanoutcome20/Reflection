@@ -137,4 +137,37 @@ return {
     ["76561198430811792"] = true, -- Cheating group
     ["76561198451500600"] = true, -- Cheating group
     ["76561198882295041"] = true, -- Cheating group
+
+    -- IDs from /groups/ib4g.
+    ["76561198087554278"] = true, -- Cheating group
+    ["76561198285601724"] = true, -- Cheating group
+    ["76561198337685853"] = true, -- Cheating group
+    ["76561198124410675"] = true, -- Cheating group
+    ["76561197969721322"] = true, -- Cheating group
+    ["76561198178555742"] = true, -- Cheating group
+    ["76561198371018204"] = true, -- Cheating group
+    ["76561198198405171"] = true, -- Cheating group
+    ["76561198075421923"] = true, -- Cheating group
+    ["76561198364159894"] = true, -- Cheating group
+    ["76561197998892123"] = true, -- Cheating group
+    ["76561199719732495"] = true, -- Cheating group
+    ["76561198121280601"] = true, -- Cheating group
+    ["76561198271413443"] = true, -- Cheating group
+    ["76561199172736501"] = true, -- Cheating group
+    ["76561198860159907"] = true, -- Cheating group
+    ["76561199150291605"] = true, -- Cheating group
+    ["76561198452512431"] = true, -- Cheating group
+    ["76561199019261402"] = true, -- Cheating group
+    ["76561199135360521"] = true, -- Cheating group
+    ["76561199871271940"] = true, -- Cheating group
+    ["76561198050079313"] = true, -- Cheating group
+    ["76561198106691850"] = true, -- Cheating group
+    ["76561198207555153"] = true, -- Cheating group
+    ["76561198770880164"] = true, -- Cheating group
+    ["76561198878507867"] = true, -- Cheating group
+    ["76561198922677706"] = true, -- Cheating group
+    ["76561199275301078"] = true, -- Cheating group
+    ["76561199282072254"] = true, -- Cheating group
+    ["76561199492180877"] = true, -- Cheating group
+
 }
