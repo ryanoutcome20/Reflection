@@ -227,4 +227,10 @@ return {
     ["76561198150819604"] = true, -- Cheating group
     ["76561198260077813"] = true, -- Cheating group
     ["76561198097352513"] = true, -- Cheating group
+
+    -- IDs from /groups/aphantasia.
+    ["76561198196804651"] = true, -- Cheating Group
+    ["76561199049816229"] = true, -- Cheating Group
+    ["76561198260077813"] = true, -- Cheating Group
+
 }
