@@ -266,4 +266,17 @@ return {
     ["76561198156195675"] = true, -- Cheating group
     ["76561198196804651"] = true, -- Cheating group
     ["76561198843620844"] = true, -- Cheating group
+
+    -- IDs from /groups/Propkillers_United/
+    ["76561198089819877"] = true, -- Cheating group
+    ["76561198353422308"] = true, -- Cheating group
+    ["76561198260077813"] = true, -- Cheating group
+    ["76561198096764265"] = true, -- Cheating group
+    ["76561197983737855"] = true, -- Cheating group
+    ["76561198041199117"] = true, -- Cheating group
+    ["76561198023929658"] = true, -- Cheating group
+    ["76561198046080266"] = true, -- Cheating group
+    ["76561198319248899"] = true, -- Cheating group
+    ["76561198020173120"] = true, -- Cheating group
+    ["76561197960852937"] = true, -- Cheating group
 }
