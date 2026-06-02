@@ -170,4 +170,13 @@ return {
     ["76561199049816229"] = true, -- Cheating Group
     ["76561198260077813"] = true, -- Cheating Group
 
+    -- IDs from /groups/ATPKERS.
+    ["76561198315446642"] = true, -- Cheating Group
+    ["76561199049816229"] = true, -- Cheating Group
+    ["76561198019346412"] = true, -- Cheating Group
+    ["76561198260077813"] = true, -- Cheating Group
+    ["76561198096764265"] = true, -- Cheating Group
+    ["76561197984960783"] = true, -- Cheating Group
+    ["76561198079893171"] = true, -- Cheating Group
+    ["76561198089819877"] = true, -- Cheating Group
 }
