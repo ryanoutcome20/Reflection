@@ -411,4 +411,10 @@ return {
     ["76561198026565492"] = true, -- Cheating Group
     ["76561198196804651"] = true, -- Cheating Group
     ["76561198256915839"] = true, -- Cheating Group
+
+    -- IDs from /groups/europeans_suck_dick.
+    ["76561198055533686"] = true, -- Cheating Group
+    ["76561198089819877"] = true, -- Cheating Group
+    ["76561198196804651"] = true, -- Cheating Group
+    ["76561198843620844"] = true, -- Cheating Group
 }
