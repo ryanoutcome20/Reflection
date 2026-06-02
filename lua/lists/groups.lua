@@ -214,4 +214,31 @@ return {
     ["76561198013199338"] = true, -- Cheating Group
     ["76561198017743533"] = true, -- Cheating Group
     ["76561198018289843"] = true, -- Cheating Group
+
+    -- IDs from /groups/fortunenation.
+    ["76561198013762252"] = true, -- Cheating Group
+    ["76561198004538903"] = true, -- Cheating Group
+    ["76561198021815767"] = true, -- Cheating Group
+    ["76561198013875467"] = true, -- Cheating Group
+    ["76561198003968173"] = true, -- Cheating Group
+    ["76561198028218643"] = true, -- Cheating Group
+    ["76561198001324115"] = true, -- Cheating Group
+    ["76561198010710155"] = true, -- Cheating Group
+    ["76561198040559358"] = true, -- Cheating Group
+    ["76561198066940821"] = true, -- Cheating Group
+    ["76561197993865557"] = true, -- Cheating Group
+    ["76561198006215089"] = true, -- Cheating Group
+    ["76561197977159932"] = true, -- Cheating Group
+    ["76561197990532919"] = true, -- Cheating Group
+    ["76561198004262539"] = true, -- Cheating Group
+    ["76561198008794574"] = true, -- Cheating Group
+    ["76561198009146487"] = true, -- Cheating Group
+    ["76561198009635113"] = true, -- Cheating Group
+    ["76561198021607439"] = true, -- Cheating Group
+    ["76561198026770342"] = true, -- Cheating Group
+    ["76561198028035377"] = true, -- Cheating Group
+    ["76561198029114435"] = true, -- Cheating Group
+    ["76561198040256702"] = true, -- Cheating Group
+    ["76561198056301182"] = true, -- Cheating Group
+    ["76561198126549476"] = true, -- Cheating Group
 }
