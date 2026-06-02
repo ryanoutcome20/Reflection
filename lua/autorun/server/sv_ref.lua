@@ -8,6 +8,9 @@ Reflection = {
 
 --- Constants ---
 
+Reflection.Version = "0.0.1"
+Reflection.Edition = "Pre-Alpha"
+
 Reflection.RED = Color(255,0,0)
 Reflection.GREEN = Color(0,255,0)
 Reflection.BLUE = Color(0,0,255)
@@ -81,3 +84,7 @@ function Reflection.CheckAllowed(Player)
 end
 
 hook.Add("PlayerSpawn", "Reflection.CheckAllowed", Reflection.CheckAllowed)
+
+--- Load Message ---
+
+Reflection.Print("Reflection version %s [%s] loaded!", Reflection.Version, Reflection.Edition)
