@@ -202,4 +202,16 @@ return {
     ["76561198021775509"] = true, -- Cheating Group
     ["76561197960852937"] = true, -- Cheating Group
     ["76561198430811792"] = true, -- Cheating Group
+
+    -- IDs from /groups/The-Red-Army
+    ["76561198014219378"] = true, -- Cheating Group
+    ["76561198014513623"] = true, -- Cheating Group
+    ["76561198007404098"] = true, -- Cheating Group
+    ["76561198007622969"] = true, -- Cheating Group
+    ["76561198012343587"] = true, -- Cheating Group
+    ["76561198003330615"] = true, -- Cheating Group
+    ["76561198007836457"] = true, -- Cheating Group
+    ["76561198013199338"] = true, -- Cheating Group
+    ["76561198017743533"] = true, -- Cheating Group
+    ["76561198018289843"] = true, -- Cheating Group
 }
