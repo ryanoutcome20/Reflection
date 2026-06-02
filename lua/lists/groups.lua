@@ -403,4 +403,12 @@ return {
     ["76561199220427372"] = true, -- Cheating Group
     ["76561199232016031"] = true, -- Cheating Group
     ["76561199237192743"] = true, -- Cheating Group
+
+    -- IDs from /groups/admens_suck_dick.
+    ["76561197999006300"] = true, -- Cheating Group
+    ["76561198319248899"] = true, -- Cheating Group
+    ["76561198292953618"] = true, -- Cheating Group
+    ["76561198026565492"] = true, -- Cheating Group
+    ["76561198196804651"] = true, -- Cheating Group
+    ["76561198256915839"] = true, -- Cheating Group
 }
