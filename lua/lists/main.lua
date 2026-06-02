@@ -42,6 +42,8 @@ return {
     ["76561199077047980"] = "Sk1", -- Sk1 - Alternative account of 76561199128923930
     ["76561198353422308"] = "Pinged", -- Pinged - Cheating - Propkiller
     ["76561198271413443"] = "MrHawkyy", -- MrHawkyy - Cheating - Propkiller
+    ["76561198024370278"] = "Pastgreyakuma", -- Pastgreyakuma - Cheating - Propkiller, cheat developer
+    ["76561198079893171"] = "Shadow", -- Shadow - Cheating - Propkiller
 
     -- Trinity anti-cheat testing sessions.
     ["76561199150852753"] = true, -- Cheating - Trinity testing sessions, Secret Service user
@@ -59,7 +61,6 @@ return {
     ["76561198431135206"] = true, -- Minge
     ["76561198308759192"] = true, -- Minge
     ["76561198184374243"] = true, -- Minge
-    ["90071996842377218"] = true, -- Minge
     
     ["76561199001462691"] = true, -- Cheating
     ["76561198929381855"] = true, -- Cheating
@@ -214,7 +215,6 @@ return {
     ["76561198043786123"] = true, -- Cheating group
     ["76561198071582661"] = true, -- Cheating group
     ["76561198077372802"] = true, -- Cheating group
-    ["76561198079893171"] = true, -- Cheating group
     ["76561198134089834"] = true, -- Cheating group
     ["76561198156195675"] = true, -- Cheating group
     ["76561198843620844"] = true, -- Cheating group
