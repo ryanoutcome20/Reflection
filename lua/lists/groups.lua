@@ -179,4 +179,20 @@ return {
     ["76561197984960783"] = true, -- Cheating Group
     ["76561198079893171"] = true, -- Cheating Group
     ["76561198089819877"] = true, -- Cheating Group
+
+    -- IDs from /groups/propkillduels.
+    ["76561198096764265"] = true, -- Cheating Group
+    ["76561198271506578"] = true, -- Cheating Group
+    ["76561198319248899"] = true, -- Cheating Group
+    ["76561198028362809"] = true, -- Cheating Group
+    ["76561198237714858"] = true, -- Cheating Group
+    ["76561198019346412"] = true, -- Cheating Group
+    ["76561198315446642"] = true, -- Cheating Group
+    ["76561198109320902"] = true, -- Cheating Group
+    ["76561198078511998"] = true, -- Cheating Group
+    ["76561198260077813"] = true, -- Cheating Group
+    ["76561198273134817"] = true, -- Cheating Group
+    ["76561198273736536"] = true, -- Cheating Group
+    ["76561198430811792"] = true, -- Cheating Group
+    ["76561199220427372"] = true, -- Cheating Group
 }
