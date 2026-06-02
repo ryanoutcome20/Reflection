@@ -195,4 +195,11 @@ return {
     ["76561198273736536"] = true, -- Cheating Group
     ["76561198430811792"] = true, -- Cheating Group
     ["76561199220427372"] = true, -- Cheating Group
+
+    -- IDs from /groups/TheForline.
+    ["76561198089819877"] = true, -- Cheating Group
+    ["76561198109320902"] = true, -- Cheating Group
+    ["76561198021775509"] = true, -- Cheating Group
+    ["76561197960852937"] = true, -- Cheating Group
+    ["76561198430811792"] = true, -- Cheating Group
 }
