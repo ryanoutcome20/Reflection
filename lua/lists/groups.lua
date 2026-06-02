@@ -417,4 +417,14 @@ return {
     ["76561198089819877"] = true, -- Cheating Group
     ["76561198196804651"] = true, -- Cheating Group
     ["76561198843620844"] = true, -- Cheating Group
+
+    -- IDs from /groups/rupropkill.
+    ["76561198868159880"] = true, -- Cheating Group
+    ["76561198189622195"] = true, -- Cheating Group
+    ["76561198973890578"] = true, -- Cheating Group
+    ["76561198405121983"] = true, -- Cheating Group
+    ["76561198865182498"] = true, -- Cheating Group
+    ["76561198196804651"] = true, -- Cheating Group
+    ["76561198845799806"] = true, -- Cheating Group
+    ["76561199558636207"] = true, -- Cheating Group
 }
