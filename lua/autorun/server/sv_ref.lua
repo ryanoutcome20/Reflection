@@ -54,6 +54,7 @@ end
 --- Load Lists ---
 
 Reflection.Merge("lists/main")
+Reflection.Merge("lists/groups")
 
 --- Blacklist ---
 
