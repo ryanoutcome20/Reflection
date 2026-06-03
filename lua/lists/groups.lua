@@ -475,4 +475,23 @@ return {
     ["76561199167823233"] = true, -- Cheating Group
     ["76561199373724560"] = true, -- Cheating Group
     ["76561199486905980"] = true, -- Cheating Group
+
+    -- IDs from /groups/islamicmingetopia.
+    ["76561198119598042"] = true, -- Cheating Group
+    ["76561198190131363"] = true, -- Cheating Group
+    ["76561198022998845"] = true, -- Cheating Group
+    ["76561198124410675"] = true, -- Cheating Group
+    ["76561198319248899"] = true, -- Cheating Group
+    ["76561198109320902"] = true, -- Cheating Group
+    ["76561198391404913"] = true, -- Cheating Group
+    ["76561198042954629"] = true, -- Cheating Group
+    ["76561198148124171"] = true, -- Cheating Group
+    ["76561198108535264"] = true, -- Cheating Group
+    ["76561198167966834"] = true, -- Cheating Group
+    ["76561198196804651"] = true, -- Cheating Group
+    ["76561198197327637"] = true, -- Cheating Group
+    ["76561198376004431"] = true, -- Cheating Group
+    ["76561198437095462"] = true, -- Cheating Group
+    ["76561198865182498"] = true, -- Cheating Group
+    ["76561199022200315"] = true, -- Cheating Group
 }
