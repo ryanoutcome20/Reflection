@@ -21,7 +21,7 @@ pattern = re.compile(
 ids = pattern.findall("\n".join(text))
 
 if HEADER:
-    print(f"    -- {HEADER}")
+    print(f"-- {HEADER}")
 
 for steamid in ids:
     print(f'    ["{steamid}"] = true, -- {NOTE}')
