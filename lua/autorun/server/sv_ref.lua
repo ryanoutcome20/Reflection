@@ -59,6 +59,14 @@ end
 Reflection.Merge("lists/main")
 Reflection.Merge("lists/groups")
 
+--- Counter ---
+
+function Reflection.Counter()
+    Reflection.Print("Actively protecting the server from %i registered cheaters!", table.Count(Reflection.Blacklist))
+end
+
+concommand.Add("reflection_counter", Reflection.Counter)
+
 --- Blacklist ---
 
 function Reflection.CheckAllowed(Player)
