@@ -6,7 +6,7 @@ Reflection = { }
 
 --- Constants ---
 
-Reflection.Version = "0.0.2"
+Reflection.Version = "0.0.3"
 Reflection.Edition = "Pre-Alpha"
 
 Reflection.RED = Color(255,0,0)
@@ -45,7 +45,14 @@ function Reflection.Merge(Path)
     local List = include(Path)
 
     if istable(List) then
-        table.Merge(Reflection.Blacklist, List)
+        for ID, Info in pairs(List) do 
+            if Reflection.Blacklist[ID] then
+                Reflection.Blacklist[ID] = Reflection.Blacklist[ID] .. ", " .. Info
+            else
+                Reflection.Blacklist[ID] = Info
+            end
+        end
+
         Reflection.Print("Loaded list `%s` (%s)", Path, string.NiceSize(file.Size(Path, "LUA")))
     else
         Reflection.Print("Couldn't load list: `%s`", Path)
@@ -86,7 +93,7 @@ function Reflection.CheckAllowed(Player)
 
     if BlacklistSID then
         game.KickID(SID, "[Reflection] Blacklisted: " .. SID)
-        Reflection.Print("Kicked `%s`, blacklisted (%s)!", SID, isstring(BlacklistSID) and BlacklistSID or "no id")
+        Reflection.Print("Kicked `%s`, blacklisted! Reason: \"%s\"", SID, BlacklistSID)
         return
     elseif BlacklistOSID then
         game.KickID(ID, "[Reflection] Blacklisted: " .. oSID)
