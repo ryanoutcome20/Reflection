@@ -59,6 +59,7 @@ return {
     ["76561199675220953"] = "Trinity Anti-Cheat honeypot sessions, secret service user",
     ["76561199243439540"] = "Trinity Anti-Cheat honeypot sessions",
     ["76561198256893026"] = "Trinity Anti-Cheat honeypot sessions",
+    ["76561199128923930"] = "Trinity Anti-Cheat honeypot sessions",
     ["76561198990889992"] = "Trinity Anti-Cheat honeypot sessions",
     ["76561198977274089"] = "Trinity Anti-Cheat honeypot sessions, nullified.su user",
     ["76561199077638385"] = "Trinity Anti-Cheat honeypot sessions, evolve user/developer",

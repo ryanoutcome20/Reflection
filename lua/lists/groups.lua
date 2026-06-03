@@ -19,6 +19,20 @@ return {
     ["76561198451500600"] = CG.."pinjed",
 
     -- IDs from /groups/propkillcoalition.
+    ["76561198024693685"] = CG.."propkillcoalition",
+    ["76561198315446642"] = CG.."propkillcoalition",
+    ["76561198353422308"] = CG.."propkillcoalition",
+    ["76561198042954629"] = CG.."propkillcoalition",
+    ["76561198271413443"] = CG.."propkillcoalition"
+    ["76561198347829667"] = CG.."propkillcoalition"
+    ["76561198190131363"] = CG.."propkillcoalition"
+    ["76561198437095462"] = CG.."propkillcoalition"
+    ["76561198076642362"] = CG.."propkillcoalition"
+    ["76561198866978554"] = CG.."propkillcoalition"
+    ["76561198865182498"] = CG.."propkillcoalition"
+    ["76561198196804651"] = CG.."propkillcoalition"
+    ["76561198451500600"] = CG.."propkillcoalition"
+    ["76561198260077813"] = CG.."propkillcoalition",
     ["76561199049816229"] = CG.."propkillcoalition",
     ["76561198319248899"] = CG.."propkillcoalition",
     ["76561198803735873"] = CG.."propkillcoalition",
@@ -64,6 +78,11 @@ return {
     ["76561198882295041"] = CG.."propkillcoalition",
 
     -- IDs from /groups/ib4g.
+    ["76561198271413443"] = CG.."ib4g",
+    ["76561198452512431"] = CG.."ib4g",
+    ["76561199019261402"] = CG.."ib4g",
+    ["76561198087554278"] = CG.."ib4g",
+    ["76561198124410675"] = CG.."ib4g",
     ["76561198285601724"] = CG.."ib4g",
     ["76561198337685853"] = CG.."ib4g",
     ["76561197969721322"] = CG.."ib4g",
@@ -91,6 +110,16 @@ return {
     ["76561199492180877"] = CG.."ib4g",
 
     -- IDs from /groups/propkilled.
+    ["76561198319248899"] = CG.."propkilled",
+    ["76561197970783213"] = CG.."propkilled",
+    ["76561198019346412"] = CG.."propkilled",
+    ["76561199186261980"] = CG.."propkilled",
+    ["76561198124410675"] = CG.."propkilled",
+    ["76561198452512431"] = CG.."propkilled",
+    ["76561198030966032"] = CG.."propkilled",
+    ["76561198865182498"] = CG.."propkilled",
+    ["76561198271413443"] = CG.."propkilled",
+    ["76561199238677907"] = CG.."propkilled",
     ["76561198192410428"] = CG.."propkilled",
     ["76561198269169183"] = CG.."propkilled",
     ["76561198277745920"] = CG.."propkilled",
@@ -114,6 +143,22 @@ return {
     ["76561198082762906"] = CG.."propkilled",
 
     -- IDs from /groups/poki.
+    ["76561197994972708"] = CG.."poki",
+    ["76561198089819877"] = CG.."poki",
+    ["76561198019346412"] = CG.."poki",
+    ["76561198315446642"] = CG.."poki",
+    ["76561198023929658"] = CG.."poki",
+    ["76561198109320902"] = CG.."poki",
+    ["76561198260077813"] = CG.."poki",
+    ["76561197999390534"] = CG.."poki",
+    ["76561198319248899"] = CG.."poki",
+    ["76561198437095462"] = CG.."poki",
+    ["76561198803735873"] = CG.."poki",
+    ["76561198096764265"] = CG.."poki",
+    ["76561198865182498"] = CG.."poki",
+    ["76561197984960783"] = CG.."poki",
+    ["76561197963960141"] = CG.."poki",
+    ["76561198196804651"] = CG.."poki",
     ["76561197978153864"] = CG.."poki",
     ["76561198012885797"] = CG.."poki",
     ["76561198078634844"] = CG.."poki",
@@ -159,8 +204,17 @@ return {
     ["76561198843620844"] = CG.."poki",
     
     -- IDs from /groups/Propkillers_United.
+    ["76561198089819877"] = CG.."Propkillers_United",
+    ["76561198353422308"] = CG.."Propkillers_United",
+    ["76561198260077813"] = CG.."Propkillers_United",
+    ["76561198096764265"] = CG.."Propkillers_United",
     ["76561197983737855"] = CG.."Propkillers_United",
+    ["76561198041199117"] = CG.."Propkillers_United",
+    ["76561198023929658"] = CG.."Propkillers_United",
+    ["76561198046080266"] = CG.."Propkillers_United",
+    ["76561198319248899"] = CG.."Propkillers_United",
     ["76561198020173120"] = CG.."Propkillers_United",
+    ["76561197960852937"] = CG.."Propkillers_United",
 
     -- IDs from /groups/thefridgebois.
     ["76561198150819604"] = CG.."thefridgebois",
