@@ -83,7 +83,7 @@ function Reflection.CheckAllowed(Player)
     Reflection.Print("Verified player: `%s` -> `%s`", SID, Player:Name())
 end
 
-hook.Add("PlayerSpawn", "Reflection.CheckAllowed", Reflection.CheckAllowed)
+hook.Add("PlayerInitialSpawn", "Reflection.CheckAllowed", Reflection.CheckAllowed)
 
 --- Load Message ---
 
