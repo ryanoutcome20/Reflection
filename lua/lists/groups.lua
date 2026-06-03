@@ -494,4 +494,10 @@ return {
     ["76561198437095462"] = true, -- Cheating Group
     ["76561198865182498"] = true, -- Cheating Group
     ["76561199022200315"] = true, -- Cheating Group
+
+    -- IDs from /groups/mingers_against_terrence.
+    ["76561198109320902"] = true, -- Cheating Group
+    ["76561198026565492"] = true, -- Cheating Group
+    ["76561198041199117"] = true, -- Cheating Group
+    ["76561198292953618"] = true, -- Cheating Group
 }
