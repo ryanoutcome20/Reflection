@@ -573,4 +573,17 @@ return {
     ["76561198884075516"] = true, -- Cheating Group
     ["76561199103685915"] = true, -- Cheating Group
     ["76561199240467835"] = true, -- Cheating Group
+
+    -- IDs from /groups/ripultrabro.
+    ["76561198039814519"] = true, -- Cheating Group
+    ["76561198011472990"] = true, -- Cheating Group
+    ["76561198034568634"] = true, -- Cheating Group
+    ["76561198033811933"] = true, -- Cheating Group
+    ["76561198054738918"] = true, -- Cheating Group
+    ["76561198018838737"] = true, -- Cheating Group
+    ["76561198081524791"] = true, -- Cheating Group
+    ["76561198088218810"] = true, -- Cheating Group
+    ["76561198119598042"] = true, -- Cheating Group
+    ["76561198150060800"] = true, -- Cheating Group
+    ["76561198872228953"] = true, -- Cheating Group
 }
