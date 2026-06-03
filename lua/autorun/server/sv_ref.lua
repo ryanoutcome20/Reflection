@@ -45,11 +45,18 @@ function Reflection.Merge(Path)
     local List = include(Path)
 
     if istable(List) then
-        for ID, Info in pairs(List) do 
+        for k, Info in pairs(List) do 
+            local ID, Reason = Info[1], Info[2]
+
+            if not ID or not Reason then
+                Reflection.Print("Invalid list index from `%s`: %i", Path, k)
+                continue
+            end
+            
             if Reflection.Blacklist[ID] then
-                Reflection.Blacklist[ID] = Reflection.Blacklist[ID] .. ", " .. Info
+                Reflection.Blacklist[ID] = Reflection.Blacklist[ID] .. ", " .. Reason
             else
-                Reflection.Blacklist[ID] = Info
+                Reflection.Blacklist[ID] = Reason
             end
         end
 
