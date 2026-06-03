@@ -53,17 +53,17 @@ return {
     ["76561198271413443"] = CH.."MrHawkyy",
     ["76561198024370278"] = CH.."Pastgreyakuma, cheat developer",
 
-    -- Trinity anti-cheat testing sessions.
-    ["76561199150852753"] = CH.."Trinity Anti-Cheat testing sessions, secret service user",
-    ["76561199813091069"] = CH.."Trinity Anti-Cheat testing sessions, secret service user",
-    ["76561199675220953"] = CH.."Trinity Anti-Cheat testing sessions, secret service user",
-    ["76561199243439540"] = CH.."Trinity Anti-Cheat testing sessions",
-    ["76561198256893026"] = CH.."Trinity Anti-Cheat testing sessions",
-    ["76561198990889992"] = CH.."Trinity Anti-Cheat testing sessions",
-    ["76561198977274089"] = CH.."Trinity Anti-Cheat testing sessions, nullified.su user",
-    ["76561199077638385"] = CH.."Trinity Anti-Cheat testing sessions, evolve user/developer",
-    ["76561199064149582"] = CH.."Trinity Anti-Cheat testing sessions, exechack user",
-    ["76561199133921604"] = CH.."Trinity Anti-Cheat testing sessions, benzologitinenetinecodine user",
+    -- Trinity anti-cheat honeypot sessions.
+    ["76561199150852753"] = "Trinity Anti-Cheat honeypot sessions, secret service user",
+    ["76561199813091069"] = "Trinity Anti-Cheat honeypot sessions, secret service user",
+    ["76561199675220953"] = "Trinity Anti-Cheat honeypot sessions, secret service user",
+    ["76561199243439540"] = "Trinity Anti-Cheat honeypot sessions",
+    ["76561198256893026"] = "Trinity Anti-Cheat honeypot sessions",
+    ["76561198990889992"] = "Trinity Anti-Cheat honeypot sessions",
+    ["76561198977274089"] = "Trinity Anti-Cheat honeypot sessions, nullified.su user",
+    ["76561199077638385"] = "Trinity Anti-Cheat honeypot sessions, evolve user/developer",
+    ["76561199064149582"] = "Trinity Anti-Cheat honeypot sessions, exechack user",
+    ["76561199133921604"] = "Trinity Anti-Cheat honeypot sessions, benzologitinenetinecodine user",
 
     -- Libby's Oxide playerlist.
     ["76561198431135206"] = MG.."oxide playerlist",
