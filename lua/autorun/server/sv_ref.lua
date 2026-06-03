@@ -2,9 +2,7 @@
 --[[ Reflection ]]--
 --[[ ~~~~~~~~~~ ]]--
 
-Reflection = {
-    Blacklist = { }
-}
+Reflection = { }
 
 --- Constants ---
 
@@ -56,8 +54,16 @@ end
 
 --- Load Lists ---
 
-Reflection.Merge("lists/main")
-Reflection.Merge("lists/groups")
+function Reflection.LoadLists()
+    Reflection.Blacklist = { }
+    
+    Reflection.Merge("lists/main")
+    Reflection.Merge("lists/groups")
+end
+
+concommand.Add("reflection_reload", Reflection.LoadLists)
+
+Reflection.LoadLists()
 
 --- Counter ---
 
