@@ -1291,4 +1291,15 @@ return {
     {"76561198273736536", CG.."propkillduels"},
     {"76561198430811792", CG.."propkillduels"},
     {"76561199220427372", CG.."propkillduels"},
+
+    -- IDs from /groups/CAMCooked.
+    {"76561198087554278", CG.."CAMCooked"},
+    {"76561198322500231", CG.."CAMCooked"},
+    {"76561198124311404", CG.."CAMCooked"},
+    {"76561198305342025", CG.."CAMCooked"},
+    {"76561197993389150", CG.."CAMCooked"},
+    {"76561198099809936", CG.."CAMCooked"},
+    {"76561198139251766", CG.."CAMCooked"},
+    {"76561198149663968", CG.."CAMCooked"},
+    {"76561198328007457", CG.."CAMCooked"},
 }
