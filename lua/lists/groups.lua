@@ -1157,4 +1157,15 @@ return {
     {"76561199511367981", CG.."secretserviceclub"},
     {"76561198355157584", CG.."secretserviceclub"},
     {"76561199128923930", CG.."secretserviceclub"},
+
+    -- IDs from /groups/GmodGriefaz.
+    {"76561198355157584", CG.."GmodGriefaz"},
+    {"76561198945353175", CG.."GmodGriefaz"},
+    {"76561199128923930", CG.."GmodGriefaz"},
+    {"76561199077047980", CG.."GmodGriefaz"},
+    {"76561198052524180", CG.."GmodGriefaz"},
+    {"76561199064389643", CG.."GmodGriefaz"},
+    {"76561199160808004", CG.."GmodGriefaz"},
+    {"76561199179642495", CG.."GmodGriefaz"},
+    {"76561199179849451", CG.."GmodGriefaz"},
 }
