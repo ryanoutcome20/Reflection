@@ -1168,4 +1168,21 @@ return {
     {"76561199160808004", CG.."GmodGriefaz"},
     {"76561199179642495", CG.."GmodGriefaz"},
     {"76561199179849451", CG.."GmodGriefaz"},
+
+    -- IDs from /groups/GmodHvHLegends.
+    {"76561198271850631", CG.."GmodHvHLegends"},
+    {"76561198355157584", CG.."GmodHvHLegends"},
+    {"76561198945353175", CG.."GmodHvHLegends"},
+    {"76561199000829228", CG.."GmodHvHLegends"},
+    {"76561198166142318", CG.."GmodHvHLegends"},
+    {"76561198199281234", CG.."GmodHvHLegends"},
+    {"76561198256893026", CG.."GmodHvHLegends"},
+    {"76561198271382917", CG.."GmodHvHLegends"},
+    {"76561198306669951", CG.."GmodHvHLegends"},
+    {"76561198379458763", CG.."GmodHvHLegends"},
+    {"76561198868487714", CG.."GmodHvHLegends"},
+    {"76561198215224705", CG.."GmodHvHLegends"},
+    {"76561198259314954", CG.."GmodHvHLegends"},
+    {"76561198075353487", CG.."GmodHvHLegends"},
+    {"76561199138735421", CG.."GmodHvHLegends"},
 }
