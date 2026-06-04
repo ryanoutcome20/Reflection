@@ -1126,4 +1126,20 @@ return {
     {"76561199544784457", CG.."itamisoftware"},
     {"76561199572321350", CG.."itamisoftware"},
     {"76561199854332187", CG.."itamisoftware"},
+
+    -- IDs from /groups/kittykittycatcat.
+    {"76561198983989336", CG.."kittykittycatcat"},
+    {"76561199039621937", CG.."kittykittycatcat"},
+    {"76561199171902798", CG.."kittykittycatcat"},
+    {"76561199291774061", CG.."kittykittycatcat"},
+    {"76561199511367981", CG.."kittykittycatcat"},
+    {"76561197999345907", CG.."kittykittycatcat"},
+    {"76561199082219152", CG.."kittykittycatcat"},
+    {"76561199361769355", CG.."kittykittycatcat"},
+    {"76561198259228815", CG.."kittykittycatcat"},
+    {"76561199178907450", CG.."kittykittycatcat"},
+    {"76561199122130886", CG.."kittykittycatcat"},
+    {"76561199471327453", CG.."kittykittycatcat"},
+    {"76561198273199251", CG.."kittykittycatcat"},
+    {"76561198370254805", CG.."kittykittycatcat"},
 }
