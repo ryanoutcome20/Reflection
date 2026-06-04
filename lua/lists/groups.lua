@@ -1199,4 +1199,10 @@ return {
     {"76561199144719913", CG.."dogecoinvestmentfirm"},
     {"76561199144793549", CG.."dogecoinvestmentfirm"},
     {"76561199144858290", CG.."dogecoinvestmentfirm"},
+
+    -- IDs from /groups/Young-Money-Clan-HvH.
+    {"76561198256893026", CG.."Young-Money-Clan-HvH"},
+    {"76561198355157584", CG.."Young-Money-Clan-HvH"},
+    {"76561199211427410", CG.."Young-Money-Clan-HvH"},
+    {"76561199212399620", CG.."Young-Money-Clan-HvH"},
 }
