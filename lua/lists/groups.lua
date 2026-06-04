@@ -1142,4 +1142,14 @@ return {
     {"76561199471327453", CG.."kittykittycatcat"},
     {"76561198273199251", CG.."kittykittycatcat"},
     {"76561198370254805", CG.."kittykittycatcat"},
+
+    -- IDs from /groups/logehack.
+    {"76561198355157584", CG.."logehack"},
+    {"76561199128923930", CG.."logehack"},
+    {"76561198375096797", CG.."logehack"},
+    {"76561198945353175", CG.."logehack"},
+    {"76561199077047980", CG.."logehack"},
+    {"76561198821114207", CG.."logehack"},
+    {"76561198256893026", CG.."logehack"},
+    {"76561199443675587", CG.."logehack"},
 }
