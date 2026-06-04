@@ -1152,4 +1152,9 @@ return {
     {"76561198821114207", CG.."logehack"},
     {"76561198256893026", CG.."logehack"},
     {"76561199443675587", CG.."logehack"},
+
+    -- IDs from /groups/secretserviceclub.
+    {"76561199511367981", CG.."secretserviceclub"},
+    {"76561198355157584", CG.."secretserviceclub"},
+    {"76561199128923930", CG.."secretserviceclub"},
 }
