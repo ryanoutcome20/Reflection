@@ -1185,4 +1185,18 @@ return {
     {"76561198259314954", CG.."GmodHvHLegends"},
     {"76561198075353487", CG.."GmodHvHLegends"},
     {"76561199138735421", CG.."GmodHvHLegends"},
+
+    -- IDs from /groups/dogecoinvestmentfirm.
+    {"76561198819400644", CG.."dogecoinvestmentfirm"},
+    {"76561198355157584", CG.."dogecoinvestmentfirm"},
+    {"76561198945353175", CG.."dogecoinvestmentfirm"},
+    {"76561198338474711", CG.."dogecoinvestmentfirm"},
+    {"76561198256893026", CG.."dogecoinvestmentfirm"},
+    {"76561199110209001", CG.."dogecoinvestmentfirm"},
+    {"76561199144547564", CG.."dogecoinvestmentfirm"},
+    {"76561199144657533", CG.."dogecoinvestmentfirm"},
+    {"76561199144718292", CG.."dogecoinvestmentfirm"},
+    {"76561199144719913", CG.."dogecoinvestmentfirm"},
+    {"76561199144793549", CG.."dogecoinvestmentfirm"},
+    {"76561199144858290", CG.."dogecoinvestmentfirm"},
 }
