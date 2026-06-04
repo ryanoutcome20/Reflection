@@ -1275,4 +1275,20 @@ return {
     {"76561199066022307", CG.."PropKillNA"},
     {"76561199104334144", CG.."PropKillNA"},
     {"76561199220427372", CG.."PropKillNA"},
+
+    -- IDs from /groups/propkillduels.
+    {"76561198096764265", CG.."propkillduels"},
+    {"76561198028362809", CG.."propkillduels"},
+    {"76561198019346412", CG.."propkillduels"},
+    {"76561198315446642", CG.."propkillduels"},
+    {"76561198109320902", CG.."propkillduels"},
+    {"76561198271506578", CG.."propkillduels"},
+    {"76561198260077813", CG.."propkillduels"},
+    {"76561198319248899", CG.."propkillduels"},
+    {"76561198237714858", CG.."propkillduels"},
+    {"76561198273134817", CG.."propkillduels"},
+    {"76561198078511998", CG.."propkillduels"},
+    {"76561198273736536", CG.."propkillduels"},
+    {"76561198430811792", CG.."propkillduels"},
+    {"76561199220427372", CG.."propkillduels"},
 }
