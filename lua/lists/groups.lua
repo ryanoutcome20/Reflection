@@ -1205,4 +1205,9 @@ return {
     {"76561198355157584", CG.."Young-Money-Clan-HvH"},
     {"76561199211427410", CG.."Young-Money-Clan-HvH"},
     {"76561199212399620", CG.."Young-Money-Clan-HvH"},
+
+    -- IDs from /groups/IhazR3c0nz.
+    {"76561198355157584", CG.."IhazR3c0nz"},
+    {"76561198055953697", CG.."IhazR3c0nz"},
+    {"76561199064389643", CG.."IhazR3c0nz"},
 }
