@@ -2004,4 +2004,16 @@ return {
     {"76561199095619851", CG.."BENCODYMIKEBOOSTING"},
     {"76561199183842383", CG.."BENCODYMIKEBOOSTING"},
     {"76561199794826637", CG.."BENCODYMIKEBOOSTING"},
+
+    -- IDs from /groups/toeaimed.
+    {"76561198205771199", CG.."toeaimed"},
+    {"76561198086221038", CG.."toeaimed"},
+
+    -- IDs from /groups/bodyaimed.
+    {"76561198205771199", CG.."bodyaimed"},
+    {"76561198086221038", CG.."bodyaimed"},
+
+    -- IDs from /groups/w12w2w.
+    {"76561198205771199", CG.."w12w2w"},
+    {"76561198086221038", CG.."w12w2w"},
 }
