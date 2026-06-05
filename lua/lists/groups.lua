@@ -1859,4 +1859,7 @@ return {
     {"76561198031700108", CG.."legitplayerteam"},
     {"76561198296167509", CG.."legitplayerteam"},
     {"76561198187941106", CG.."legitplayerteam"},
+
+    -- IDs from /groups/LucidCheats4TheWin.
+    {"76561198031700108", CG.."LucidCheats4TheWin"},
 }
