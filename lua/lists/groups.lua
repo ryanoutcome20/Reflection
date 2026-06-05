@@ -1500,4 +1500,23 @@ return {
 
     -- IDs from /groups/honorableposters.
     {"76561198147640488", CG.."honorableposters"},
+
+    -- IDs from /groups/WeCheatAtGames.
+    {"76561197962903643", CG.."WeCheatAtGames"},
+    {"76561198034249687", CG.."WeCheatAtGames"},
+    {"76561197960328828", CG.."WeCheatAtGames"},
+    {"76561198017479458", CG.."WeCheatAtGames"},
+    {"76561197961316802", CG.."WeCheatAtGames"},
+    {"76561197962930727", CG.."WeCheatAtGames"},
+    {"76561198069035520", CG.."WeCheatAtGames"},
+    {"76561198079917549", CG.."WeCheatAtGames"},
+    {"76561198131085785", CG.."WeCheatAtGames"},
+    {"76561198131111907", CG.."WeCheatAtGames"},
+    {"76561198131174311", CG.."WeCheatAtGames"},
+    {"76561198207372105", CG.."WeCheatAtGames"},
+    {"76561198208291147", CG.."WeCheatAtGames"},
+    {"76561198208314125", CG.."WeCheatAtGames"},
+    {"76561198254518281", CG.."WeCheatAtGames"},
+    {"76561198266237261", CG.."WeCheatAtGames"},
+    {"76561199851686032", CG.."WeCheatAtGames"},
 }
