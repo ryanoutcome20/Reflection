@@ -3149,4 +3149,9 @@ return {
     {"76561199224814963", CG.."cteamHVH"},
     {"76561199373724560", CG.."cteamHVH"},
     {"76561199645567453", CG.."cteamHVH"},
+
+    -- IDs from /groups/GLuaFree.
+    {"76561198056074497", CG.."GLuaFree"},
+    {"76561198094686016", CG.."GLuaFree"},
+    {"76561198130060779", CG.."GLuaFree"},
 }
