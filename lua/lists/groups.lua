@@ -3174,4 +3174,9 @@ return {
     {"76561198130060779", CG.."pregnantboiz"},
     {"76561198316754229", CG.."pregnantboiz"},
     {"76561198352374509", CG.."pregnantboiz"},
+
+    -- IDs from /groups/swag_hack.
+    {"76561198354019083", CG.."swag_hack"},
+    {"76561198360212037", CG.."swag_hack"},
+    {"76561198347829667", CG.."swag_hack"},
 }
