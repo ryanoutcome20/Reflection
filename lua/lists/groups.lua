@@ -2054,4 +2054,12 @@ return {
     -- IDs from /groups/SEGAwarfare.
     {"76561198217059675", CG.."SEGAwarfare"},
     {"76561198056074497", CG.."SEGAwarfare"},
+
+    -- IDs from /groups/666trenchmafiabitch.
+    {"76561198260016828", CG.."666trenchmafiabitch"},
+    {"76561197993844980", CG.."666trenchmafiabitch"},
+    {"76561198056074497", CG.."666trenchmafiabitch"},
+    {"76561198165073287", CG.."666trenchmafiabitch"},
+    {"76561198202343188", CG.."666trenchmafiabitch"},
+    {"76561198240104722", CG.."666trenchmafiabitch"},
 }
