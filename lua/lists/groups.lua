@@ -2043,4 +2043,12 @@ return {
     {"76561198331444580", CG.."thedooodoodbird"},
     {"76561198831182498", CG.."thedooodoodbird"},
     {"76561199092020175", CG.."thedooodoodbird"},
+
+    -- IDs from /groups/Deranked4U.
+    {"76561198287485381", CG.."Deranked4U"},
+    {"76561197961487105", CG.."Deranked4U"},
+    {"76561198176792923", CG.."Deranked4U"},
+    {"76561198292856124", CG.."Deranked4U"},
+    {"76561198302382074", CG.."Deranked4U"},
+
 }
