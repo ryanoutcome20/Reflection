@@ -2051,4 +2051,7 @@ return {
     {"76561198292856124", CG.."Deranked4U"},
     {"76561198302382074", CG.."Deranked4U"},
 
+    -- IDs from /groups/SEGAwarfare.
+    {"76561198217059675", CG.."SEGAwarfare"},
+    {"76561198056074497", CG.."SEGAwarfare"},
 }
