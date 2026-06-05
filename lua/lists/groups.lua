@@ -1497,4 +1497,7 @@ return {
     {"76561198195363207", CG.."Dango_Mafia_Fan_club"},
     {"76561198195665691", CG.."Dango_Mafia_Fan_club"},
     {"76561198228895884", CG.."Dango_Mafia_Fan_club"},
+
+    -- IDs from /groups/honorableposters.
+    {"76561198147640488", CG.."honorableposters"},
 }
