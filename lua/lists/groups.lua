@@ -1854,4 +1854,9 @@ return {
     {"76561199241118634", CG.."WeAreJustSoDamnGood"},
     {"76561199260918431", CG.."WeAreJustSoDamnGood"},
     {"76561199534859609", CG.."WeAreJustSoDamnGood"},
+
+    -- IDs from /groups/legitplayerteam.
+    {"76561198031700108", CG.."legitplayerteam"},
+    {"76561198296167509", CG.."legitplayerteam"},
+    {"76561198187941106", CG.."legitplayerteam"},
 }
