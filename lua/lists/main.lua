@@ -57,6 +57,7 @@ return {
     {"76561199150852753", "Trinity Anti-Cheat honeypot sessions, secret service user"},
     {"76561199813091069", "Trinity Anti-Cheat honeypot sessions, secret service user"},
     {"76561199675220953", "Trinity Anti-Cheat honeypot sessions, secret service user"},
+    {"76561199566916435", "Trinity Anti-Cheat honeypot sessions, secret service user"},
     {"76561199243439540", "Trinity Anti-Cheat honeypot sessions"},
     {"76561198256893026", "Trinity Anti-Cheat honeypot sessions"},
     {"76561199128923930", "Trinity Anti-Cheat honeypot sessions"},
