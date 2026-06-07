@@ -5391,4 +5391,9 @@ return {
     {"76561199104334144", CG.."propriders"},
     {"76561199220427372", CG.."propriders"},
     {"76561199797475772", CG.."propriders"},
+
+    -- IDs from /groups/DDOS4FUN.
+    {"76561198114568030", CG.."DDOS4FUN"},
+    {"76561198063526026", CG.."DDOS4FUN"},
+    {"76561198064234621", CG.."DDOS4FUN"},
 }
