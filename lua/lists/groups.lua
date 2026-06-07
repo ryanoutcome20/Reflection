@@ -5396,4 +5396,12 @@ return {
     {"76561198114568030", CG.."DDOS4FUN"},
     {"76561198063526026", CG.."DDOS4FUN"},
     {"76561198064234621", CG.."DDOS4FUN"},
+
+    -- IDs from /groups/gayvaccheaterclub.
+    {"76561197961066811", CG.."gayvaccheaterclub"},
+    {"76561198109204337", CG.."gayvaccheaterclub"},
+    {"76561198062724795", CG.."gayvaccheaterclub"},
+    {"76561197960859840", CG.."gayvaccheaterclub"},
+    {"76561197961263196", CG.."gayvaccheaterclub"},
+    {"76561198290653628", CG.."gayvaccheaterclub"},
 }
