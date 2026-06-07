@@ -1,27 +1,29 @@
 import re
+import requests
+import pyperclip
 
-TAG = "steamID64"
-NOTE = "Cheating Group"
-HEADER = "IDs from /groups/"
+group = pyperclip.paste().strip()
 
-text = []
+if not group:
+    raise SystemExit("Clipboard is empty.")
 
-print("Paste entries, then press Ctrl+D (Linux/macOS) or Ctrl+Z Enter (Windows):")
+url = f"https://steamcommunity.com/groups/{group}/memberslistxml/?xml=1"
 
-try:
-    while True:
-        text.append(input())
-except EOFError:
-    pass
-
-pattern = re.compile(
-    rf"<{re.escape(TAG)}>(.*?)</{re.escape(TAG)}>"
+response = requests.get(
+    url,
+    headers={
+        "User-Agent": "Mozilla/5.0"
+    },
+    timeout=30,
 )
 
-ids = pattern.findall("\n".join(text))
+response.raise_for_status()
 
-if HEADER:
-    print(f"-- {HEADER}")
+xml = response.text
+
+ids = re.findall(r"<steamID64>(\d+)</steamID64>", xml)
+
+print(f"-- IDs from /groups/{group}.")
 
 for steamid in ids:
-    print(f'    ["{steamid}"] = true, -- {NOTE}')
+    print(f'    {{"{steamid}", CG.."{group}"}},')
