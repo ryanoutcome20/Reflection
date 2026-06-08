@@ -23,7 +23,10 @@ xml = response.text
 
 ids = re.findall(r"<steamID64>(\d+)</steamID64>", xml)
 
-print(f"-- IDs from /groups/{group}.")
+txt = (f"\n    -- IDs from /groups/{group}.\n")
 
 for steamid in ids:
-    print(f'    {{"{steamid}", CG.."{group}"}},')
+    txt += (f'    {{"{steamid}", CG.."{group}"}},\n')
+
+print(txt)
+pyperclip.copy(txt)
