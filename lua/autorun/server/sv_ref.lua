@@ -73,6 +73,7 @@ function Reflection.LoadLists()
     
     Reflection.Merge("lists/main")
     Reflection.Merge("lists/groups")
+    Reflection.Merge("lists/groups_2")
 end
 
 concommand.Add("reflection_reload", Reflection.LoadLists)
