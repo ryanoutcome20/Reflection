@@ -24,7 +24,6 @@ return {
     {"76561198353422308", CG.."propkillcoalition"},
     {"76561198042954629", CG.."propkillcoalition"},
     {"76561198271413443", CG.."propkillcoalition"},
-    {"76561198347829667", CG.."propkillcoalition"},
     {"76561198190131363", CG.."propkillcoalition"},
     {"76561198437095462", CG.."propkillcoalition"},
     {"76561198076642362", CG.."propkillcoalition"},
@@ -86,8 +85,6 @@ return {
     {"76561198285601724", CG.."ib4g"},
     {"76561198337685853", CG.."ib4g"},
     {"76561197969721322", CG.."ib4g"},
-    {"76561198178555742", CG.."ib4g"},
-    {"76561198371018204", CG.."ib4g"},
     {"76561198198405171", CG.."ib4g"},
     {"76561198075421923", CG.."ib4g"},
     {"76561198364159894", CG.."ib4g"},
@@ -107,7 +104,6 @@ return {
     {"76561198922677706", CG.."ib4g"},
     {"76561199275301078", CG.."ib4g"},
     {"76561199282072254", CG.."ib4g"},
-    {"76561199492180877", CG.."ib4g"},
 
     -- IDs from /groups/propkilled.
     {"76561198319248899", CG.."propkilled"},
@@ -3178,7 +3174,6 @@ return {
     -- IDs from /groups/swag_hack.
     {"76561198354019083", CG.."swag_hack"},
     {"76561198360212037", CG.."swag_hack"},
-    {"76561198347829667", CG.."swag_hack"},
     
     -- IDs from /groups/SSCAxd.
     {"76561198354019083", CG.."SSCAxd"},
@@ -3207,7 +3202,6 @@ return {
     {"76561198196976443", CG.."zencheats"},
     {"76561198307938320", CG.."zencheats"},
     {"76561198236802234", CG.."zencheats"},
-    {"76561198347829667", CG.."zencheats"},
     {"76561198007699395", CG.."zencheats"},
     {"76561198374903485", CG.."zencheats"},
     {"76561198071854842", CG.."zencheats"},
@@ -3430,7 +3424,6 @@ return {
     {"76561199633069666", CG.."saynotohvh"},
     {"76561198091787041", CG.."saynotohvh"},
     {"76561198076482851", CG.."saynotohvh"},
-    {"76561198347829667", CG.."saynotohvh"},
     {"76561198070026904", CG.."saynotohvh"},
     {"76561197967595797", CG.."saynotohvh"},
     {"76561197973752747", CG.."saynotohvh"},
@@ -3648,7 +3641,6 @@ return {
     {"76561199223128258", CG.."onetappublic"},
     {"76561198734753842", CG.."onetappublic"},
     {"76561199616864427", CG.."onetappublic"},
-    {"76561198347829667", CG.."onetappublic"},
     {"76561199436136779", CG.."onetappublic"},
     {"76561198877810379", CG.."onetappublic"},
     {"76561198395179593", CG.."onetappublic"},
@@ -4543,7 +4535,6 @@ return {
     {"76561198136097697", CG.."chineseskeet"},
     {"76561198394168492", CG.."chineseskeet"},
     {"76561198169634733", CG.."chineseskeet"},
-    {"76561198347829667", CG.."chineseskeet"},
     {"76561198989912848", CG.."chineseskeet"},
     {"76561198992248935", CG.."chineseskeet"},
     {"76561198856385878", CG.."chineseskeet"},
@@ -9738,7 +9729,6 @@ return {
     {"76561198052601713", CG.."tanya_games"},
     {"76561199187243551", CG.."tanya_games"},
     {"76561198100076688", CG.."tanya_games"},
-    {"76561198178555742", CG.."tanya_games"},
     {"76561199884105124", CG.."tanya_games"},
     {"76561199140668643", CG.."tanya_games"},
     {"76561199484093624", CG.."tanya_games"},
