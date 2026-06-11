@@ -69,6 +69,8 @@ end
 --- Load Lists ---
 
 function Reflection.LoadLists()
+    Reflection.Print("Loading lists...")
+    
     Reflection.Blacklist = { }
     
     Reflection.Merge("lists/main")
