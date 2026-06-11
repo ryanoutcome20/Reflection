@@ -40,10 +40,29 @@ function Reflection.Print(Text, ...)
 end
 
 function Reflection.Merge(Path)
-    Path = Path .. ".lua"
+    local Size = 0
 
-    local List = include(Path)
+    -- Add regular path.
+    local File = Path .. ".lua"
+    
+    local List = include(File)
+    
+    Size = Size + file.Size(File, "LUA")
 
+    -- Add sub paths.
+    for i = 2, math.huge do 
+        local File = string.format("%s_%d.lua", Path, i)
+
+        if not file.Exists(File, "LUA") then
+            break
+        end
+
+        table.Add(List, include(File))
+
+        Size = Size + file.Size(File, "LUA")
+    end
+
+    -- Compile into main blacklist (merge).
     if istable(List) then
         for k, Info in pairs(List) do 
             local ID, Reason = Info[1], Info[2]
@@ -60,7 +79,7 @@ function Reflection.Merge(Path)
             end
         end
 
-        Reflection.Print("Loaded list `%s` (%s)", Path, string.NiceSize(file.Size(Path, "LUA")))
+        Reflection.Print("Loaded list `%s` (%s)", Path, string.NiceSize(Size))
     else
         Reflection.Print("Couldn't load list: `%s`", Path)
     end
@@ -115,7 +134,7 @@ function Reflection.CheckAllowed(Player)
         if Reflection.Config.Kick then
             game.KickID(SID, "[Reflection] Blacklisted: " .. SID)
         end
-        
+
         Reflection.Print("`%s`, blacklisted! Reason: \"%s\"", SID, BlacklistSID)
         return
     elseif BlacklistOSID then
