@@ -73,14 +73,24 @@ function Reflection.LoadLists()
     
     Reflection.Blacklist = { }
     
-    Reflection.Merge("lists/main")
-    Reflection.Merge("lists/groups")
-    Reflection.Merge("lists/groups_2")
+    for Path, Enabled in pairs(Reflection.Config.Lists) do 
+        if Enabled then
+            Reflection.Merge(Path)
+        end
+    end
 end
 
 concommand.Add("reflection_reload", Reflection.LoadLists)
 
-Reflection.LoadLists()
+--- Load Config ---
+
+include("reflection/config/server.lua")
+
+if not Reflection.Config then
+    Reflection.Print("Missing config path `reflection/config/server.lua`, did you delete it?")
+    Reflection.Print("Recommended to reinstall Reflection: https://github.com/ryanoutcome20/Reflection")
+    return
+end
 
 --- Counter ---
 
@@ -102,12 +112,18 @@ function Reflection.CheckAllowed(Player)
     local BlacklistSID, BlacklistOSID = Reflection.Blacklist[SID], Reflection.Blacklist[oSID]
 
     if BlacklistSID then
-        game.KickID(SID, "[Reflection] Blacklisted: " .. SID)
-        Reflection.Print("Kicked `%s`, blacklisted! Reason: \"%s\"", SID, BlacklistSID)
+        if Reflection.Config.Kick then
+            game.KickID(SID, "[Reflection] Blacklisted: " .. SID)
+        end
+        
+        Reflection.Print("`%s`, blacklisted! Reason: \"%s\"", SID, BlacklistSID)
         return
     elseif BlacklistOSID then
-        game.KickID(ID, "[Reflection] Blacklisted: " .. oSID)
-        Reflection.Print("Kicked `%s`, blacklisted owner (%s -> %s)!", SID, oSID, isstring(BlacklistOSID) and BlacklistOSID or "no id")
+        if Reflection.Config.Kick then
+            game.KickID(ID, "[Reflection] Blacklisted: " .. oSID)
+        end
+        
+        Reflection.Print("`%s`, blacklisted owner (%s -> %s)!", SID, oSID, isstring(BlacklistOSID) and BlacklistOSID or "no id")
         return
     end
 
