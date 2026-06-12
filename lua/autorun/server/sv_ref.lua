@@ -6,7 +6,7 @@ Reflection = { }
 
 --- Constants ---
 
-Reflection.Version = "0.1.1"
+Reflection.Version = "0.1.2"
 Reflection.Edition = "Pre-Alpha"
 
 Reflection.RED = Color(255,0,0)
