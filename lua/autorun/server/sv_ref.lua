@@ -165,3 +165,4 @@ MsgN("  Open Source Software")
 MsgN("  github.com/ryanoutcome20/Reflection")
 
 Reflection.Header()
+Reflection.Counter()
