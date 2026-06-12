@@ -1,5 +1,5 @@
 --[[
-    Contents: A list of cheaters, trolls, cheat developers, crashers, and other
+    A list of cheaters, trolls, cheat developers, crashers, and other
     players you don't want on your server.
 --]]
 

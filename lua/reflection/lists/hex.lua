@@ -1,5 +1,5 @@
 --[[
-    Contents: A list containing various (named) cheaters, minges, and trolls from
+    A list containing various (named) cheaters, minges, and trolls from
     HeX's blacklist.
 --]]
 

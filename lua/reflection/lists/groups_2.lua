@@ -1,5 +1,5 @@
 --[[
-    Contents: A list of cheaters within cheating or trolling steam groups.
+    A list of cheaters within cheating or trolling steam groups.
 --]]
 
 local CG = "group: "
