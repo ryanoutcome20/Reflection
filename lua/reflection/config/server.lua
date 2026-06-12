@@ -21,6 +21,7 @@ Config.Lists = {
     -- A collection of cheating, trolling, and minge IDs salvaged from Steam groups.
     ["reflection/lists/groups"] = true,
 
+    -- A collection of cheaters, trolls, and minges from HeX's blacklist.
     ["reflection/lists/hex"] = true
 }
 
