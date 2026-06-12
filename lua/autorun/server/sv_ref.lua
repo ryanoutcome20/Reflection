@@ -112,8 +112,9 @@ concommand.Add("reflection_reload", Reflection.LoadLists)
 include("reflection/config/server.lua")
 
 if not Reflection.Config then
-    MsgN("  Missing config path `reflection/config/server.lua`, did you delete it?")
+    MsgN("\n  Missing config path `reflection/config/server.lua`, did you delete it?")
     MsgN("  Recommended to reinstall Reflection: https://github.com/ryanoutcome20/Reflection")
+    Reflection.Header()
     return
 end
 
