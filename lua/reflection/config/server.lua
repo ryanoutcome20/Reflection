@@ -22,7 +22,10 @@ Config.Lists = {
     ["reflection/lists/groups"] = true,
 
     -- A collection of cheaters, trolls, and minges from HeX's blacklist.
-    ["reflection/lists/hex"] = true
+    ["reflection/lists/hex"] = true,
+
+    -- A collection of cheaters and propkillers whom were detected manually in bad servers.
+    ["reflection/lists/servers"] = true
 }
 
 --[[
