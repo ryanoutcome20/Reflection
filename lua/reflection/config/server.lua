@@ -20,6 +20,8 @@ Config.Lists = {
     
     -- A collection of cheating, trolling, and minge IDs salvaged from Steam groups.
     ["reflection/lists/groups"] = true,
+
+    ["reflection/lists/hex"] = true
 }
 
 --[[
