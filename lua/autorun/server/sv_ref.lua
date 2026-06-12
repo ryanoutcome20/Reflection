@@ -23,6 +23,10 @@ Reflection.SIGNITURE_GOLD = Color(245,194,71)
 
 --- Utility ---
 
+function Reflection.Header()
+    MsgN("\n--[[ ~~~~~~~~~~ ]]--\n--[[ Reflection ]]--\n--[[ ~~~~~~~~~~ ]]--\n")
+end
+
 function Reflection.Print(Text, ...)
     MsgC(
         color_white,
@@ -79,16 +83,18 @@ function Reflection.Merge(Path)
             end
         end
 
-        Reflection.Print("Loaded list `%s` (%s)", Path, string.NiceSize(Size))
+        MsgN("  Loaded list `" .. Path .. "` (" .. string.NiceSize(Size) .. ")")
     else
-        Reflection.Print("Couldn't load list: `%s`", Path)
+        MsgN("  Couldn't load list: `" .. Path .. "`")
     end
 end
+
+Reflection.Header()
 
 --- Load Lists ---
 
 function Reflection.LoadLists()
-    Reflection.Print("Loading lists...")
+    MsgN("  Loading lists...")
     
     Reflection.Blacklist = { }
     
@@ -106,8 +112,8 @@ concommand.Add("reflection_reload", Reflection.LoadLists)
 include("reflection/config/server.lua")
 
 if not Reflection.Config then
-    Reflection.Print("Missing config path `reflection/config/server.lua`, did you delete it?")
-    Reflection.Print("Recommended to reinstall Reflection: https://github.com/ryanoutcome20/Reflection")
+    MsgN("  Missing config path `reflection/config/server.lua`, did you delete it?")
+    MsgN("  Recommended to reinstall Reflection: https://github.com/ryanoutcome20/Reflection")
     return
 end
 
@@ -153,4 +159,9 @@ hook.Add("PlayerInitialSpawn", "Reflection.CheckAllowed", Reflection.CheckAllowe
 
 --- Load Message ---
 
-Reflection.Print("Reflection version %s [%s] loaded!", Reflection.Version, Reflection.Edition)
+MsgN("  Reflection version " .. Reflection.Version .. " [" .. Reflection.Edition .. "] loaded!\n")
+
+MsgN("  Open Source Software")
+MsgN("  github.com/ryanoutcome20/Reflection")
+
+Reflection.Header()

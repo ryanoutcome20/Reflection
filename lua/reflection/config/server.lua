@@ -30,7 +30,7 @@ Config.Kick = true
 
 -- Don't touch.
 Reflection.Config = Config
-Reflection.Print("Config Loaded!")
+MsgN("  Config Loaded!")
 Reflection.LoadLists()
 
 return Config
