@@ -121,7 +121,7 @@ end
 --- Counter ---
 
 function Reflection.Counter()
-    Reflection.Print("Actively protecting the server from %i registered cheaters!", table.Count(Reflection.Blacklist))
+    Reflection.Print("Actively protecting the server from %s registered cheaters!", string.Comma(table.Count(Reflection.Blacklist)))
 end
 
 concommand.Add("reflection_counter", Reflection.Counter)
