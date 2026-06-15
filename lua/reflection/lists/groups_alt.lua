@@ -18967,4 +18967,13 @@ return {
     {"76561199888617374", CG.."furries"},
     {"76561199889390035", CG.."furries"},
     {"76561199891877180", CG.."furries"},
+
+    -- IDs from /groups/stolasenjoyers.
+    {"76561198220352359", CG.."stolasenjoyers"},
+    {"76561198873876555", CG.."stolasenjoyers"},
+    {"76561198087190295", CG.."stolasenjoyers"},
+    {"76561198121043119", CG.."stolasenjoyers"},
+    {"76561198274458590", CG.."stolasenjoyers"},
+    {"76561199835936457", CG.."stolasenjoyers"},
+
 }
