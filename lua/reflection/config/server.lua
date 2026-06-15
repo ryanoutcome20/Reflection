@@ -25,7 +25,11 @@ Config.Lists = {
     ["reflection/lists/hex"] = true,
 
     -- A collection of cheaters and propkillers whom were detected manually in bad servers.
-    ["reflection/lists/servers"] = true
+    ["reflection/lists/servers"] = true,
+
+    -- A collection of weird people whom are in weird groups. Some of these groups are super questionable
+    -- but not directly related to cheating or trolling. Up to your discretion.
+    ["reflection/lists/groups_alt"]
 }
 
 --[[
