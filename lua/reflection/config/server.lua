@@ -29,7 +29,7 @@ Config.Lists = {
 
     -- A collection of weird people whom are in weird groups. Some of these groups are super questionable
     -- but not directly related to cheating or trolling. Up to your discretion.
-    ["reflection/lists/groups_alt"]
+    ["reflection/lists/groups_alt"] = true
 }
 
 --[[
