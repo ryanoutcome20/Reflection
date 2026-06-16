@@ -56101,5 +56101,5 @@ return {
     {"76561197966503839", CG.."funfriendlyfurs"},
     {"76561198012975803", CG.."funfriendlyfurs"},
     {"76561198039526682", CG.."funfriendlyfurs"},
-    {"76561198047583636", CG.."funfriendlyfurs"},
+    {"76561198047583636", CG.."funfriendlyfurs"}
 }
