@@ -5,7 +5,6 @@
 local CG = "wgroup: "
 
 return {
-
     -- IDs from /groups/estrogenpeek.
     {"76561198404964460", CG.."estrogenpeek"},
     {"76561198103330658", CG.."estrogenpeek"},
