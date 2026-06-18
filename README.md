@@ -6,7 +6,7 @@
   
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ryanoutcome20/Reflection?style=plastic&color=yellow&logo=github">
   <a href="https://discord.gg/Brdm4tFG9K"><img alt="Discord" src="https://img.shields.io/discord/1410210633302937622?style=plastic&color=yellow&labelColor=grey&label=Discord&logo=discord"></a>
-  <img alt="Version 0.0.3" src="https://img.shields.io/badge/Version-0.0.3-yellow?style=plastic&logo=lua">
+  <img alt="Version 0.1.3" src="https://img.shields.io/badge/Version-0.1.3-yellow?style=plastic&logo=lua">
   
   <hr>
 </div>
