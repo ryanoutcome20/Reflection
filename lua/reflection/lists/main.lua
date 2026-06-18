@@ -54,6 +54,7 @@ return {
     {"76561198024370278", CH.."Pastgreyakuma, cheat developer"},
     {"76561197969721322", CH.."DataNotFound, Kronos developer"},
     {"76561198319248899", CH.."Mace"},
+    {"76561199581622556", CH.."sub"},
 
     -- Trinity anti-cheat honeypot sessions.
     {"76561199150852753", "Trinity Anti-Cheat honeypot sessions, secret service user"},
