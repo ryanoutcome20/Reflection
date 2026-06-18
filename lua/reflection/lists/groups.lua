@@ -41688,7 +41688,6 @@ return {
     {"76561199870885219", CG.."cutieHvH"},
     {"76561199882779799", CG.."cutieHvH"},
 
-
     -- IDs from /groups/nonprimememes.
     {"76561198342620173", CG.."nonprimememes"},
     {"76561199068659589", CG.."nonprimememes"},

@@ -36619,7 +36619,6 @@ return {
     {"76561199876519903", CG.."RobloxHvH"},
     {"76561199878264503", CG.."RobloxHvH"},
 
-
     -- IDs from /groups/hvhfuhrer.
     {"76561198154858692", CG.."hvhfuhrer"},
     {"76561198775643422", CG.."hvhfuhrer"},
@@ -45057,7 +45056,6 @@ return {
     {"76561199885866820", CG.."hvhlegendskrt"},
     {"76561199889495921", CG.."hvhlegendskrt"},
     {"76561199890978281", CG.."hvhlegendskrt"},
-
 
     -- IDs from /groups/MPGH.
     {"76561197985878395", CG.."MPGH"},

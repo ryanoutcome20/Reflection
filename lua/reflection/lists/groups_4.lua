@@ -19921,7 +19921,6 @@ return {
     {"76561198811924941", CG.."aimerware"},
     {"76561198812040980", CG.."aimerware"},
 
-
     -- IDs from /groups/GoRageOrGoHome.
     {"76561198346495984", CG.."GoRageOrGoHome"},
     {"76561198784428586", CG.."GoRageOrGoHome"},
