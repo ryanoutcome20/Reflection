@@ -22376,4 +22376,14 @@ return {
     {"76561199890001905", CG.."gamesenseuwu"},
     {"76561199890959309", CG.."gamesenseuwu"},
     {"76561199891301536", CG.."gamesenseuwu"},
+
+    -- IDs from /groups/GazaBombers.
+    {"76561198689576548", CG.."GazaBombers"},
+    {"76561198687844299", CG.."GazaBombers"},
+    {"76561198757283708", CG.."GazaBombers"},
+    {"76561199396891474", CG.."GazaBombers"},
+    {"76561199233707676", CG.."GazaBombers"},
+    {"76561199574505687", CG.."GazaBombers"},
+    {"76561198701702896", CG.."GazaBombers"},
+    {"76561199347324450", CG.."GazaBombers"},
 }
