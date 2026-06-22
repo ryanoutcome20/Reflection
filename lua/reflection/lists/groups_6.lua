@@ -22386,4 +22386,14 @@ return {
     {"76561199574505687", CG.."GazaBombers"},
     {"76561198701702896", CG.."GazaBombers"},
     {"76561199347324450", CG.."GazaBombers"},
+
+    -- IDs from /groups/Thelightingman.
+    {"76561199233707676", CG.."Thelightingman"},
+    {"76561199347196961", CG.."Thelightingman"},
+    {"76561199347097881", CG.."Thelightingman"},
+    {"76561199347111384", CG.."Thelightingman"},
+    {"76561199347324450", CG.."Thelightingman"},
+    {"76561198932039397", CG.."Thelightingman"},
+    {"76561199347035365", CG.."Thelightingman"},
+    {"76561197961536098", CG.."Thelightingman"},
 }
